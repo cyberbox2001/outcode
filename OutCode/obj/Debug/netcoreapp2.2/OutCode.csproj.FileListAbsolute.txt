@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\left.txt
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\right.txt
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\OutCode.deps.json
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\OutCode.runtimeconfig.json
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\OutCode.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\OutCode.dll
+C:\Users\Administrator\source\repos\OutCode\OutCode\bin\Debug\netcoreapp2.2\OutCode.pdb
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.dll
+C:\Users\Administrator\source\repos\OutCode\OutCode\obj\Debug\netcoreapp2.2\OutCode.pdb
